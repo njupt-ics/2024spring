@@ -1,0 +1,6 @@
+remote_theme: pages-themes/architect@v0.2.0
+plugins:
+- jekyll-remote-theme
+
+title: 计算机系统基础 I
+description: 2024 年春季学期，南京邮电大学，计算机学院、软件学院、网络空间安全学院
