@@ -1,4 +1,4 @@
-title: 计算机系统基础 I
+title: NJUPT JS140401S
 author:
   name: 南邮邮电大学
 #   email: your-email@domain.com
@@ -6,7 +6,7 @@ author:
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  2024 年春季学期
+  计算机系统基础 I (2024 年春季学期)
 
 # Build settings
 
